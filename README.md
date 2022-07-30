@@ -23,3 +23,6 @@ DBなどの細かいところはLaravel編で参加している最中に勉強�
 https://web-camp.io/magazine/archives/27870
 - 上のサイトでヘッダータグとフッタータグの存在を知ったので調べた
 https://web-camp.io/magazine/archives/27870
+- headerとnaviの差がよく分からなかったので調べた
+https://shu-naka-blog.com/html/tag01/#nav
+headerの中にnaviを入れている、自分の解釈的にはこれに近いためこの方針で進める
