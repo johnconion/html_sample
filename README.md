@@ -17,3 +17,9 @@ DBなどの細かいところはLaravel編で参加している最中に勉強�
   https://prog-8.com/lessons/commandline/study/1
   
 *追加で行った場合はここを更新
+
+# 参考にしたサイト
+- HTMLの雛形をコピペしてきた
+https://web-camp.io/magazine/archives/27870
+- 上のサイトでヘッダータグとフッタータグの存在を知ったので調べた
+https://web-camp.io/magazine/archives/27870
