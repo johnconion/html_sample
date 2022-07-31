@@ -12,24 +12,24 @@ header {
     justify-content: space-between;
 }
 
-.logo {
+header .logo {
     width: 20%;
     height: 100%;
     vertical-align: middle;
 }
 
-.logo h2 {
+header .logo h2 {
     color: #fff;
     height: 100%;
     font-family: sans-serif;
 }
 
-.menu {
+header .menu {
     width: 50%;
     height: 100%;
 }
 
-.menu ul {
+header .menu ul {
     display: table;
     table-layout: fixed;
     list-style-type: none;
@@ -37,14 +37,14 @@ header {
     height: 100%;
 }
 
-.menu li {
+header .menu li {
     display: table-cell;
     word-wrap: break-word;
     width: 100%;
     height: 100%;
 }
 
-.menu .not_selected_menu {
+header .menu .item{
     display: inline-block;
     vertical-align: middle;
     width: 100%;
@@ -57,18 +57,8 @@ header {
     box-sizing: content-box;
 }
 
-.menu .selected_menu {
-    display: inline-block;
-    vertical-align: middle;
-    width: 100%;
-    height: 100%;
-    font-family: sans-serif;
+header .menu .selected {
     font-weight: bold;
-    font-size: small;
-    color: #fff;
-    text-decoration: none;
-    text-align: center;
-    box-sizing: content-box;
 }
 
 /* ヘッダー */
