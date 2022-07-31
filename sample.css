@@ -6,7 +6,7 @@ body {
 
 header {
     background-color: rgb(47, 140, 184);
-    padding: 0px 12px;
+    padding: 0px 20px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -74,5 +74,26 @@ header {
 /* ヘッダー */
 
 /* フッダー */
+
+footer{
+    background-color: rgb(47, 140, 184);
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px;
+    padding: 12px 20px;
+}
+
+footer ul{
+    list-style-type: none;
+    margin: 0px;
+}
+
+footer a{
+    font-family: sans-serif;
+    font-size: small;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
 
 /* フッダー */
