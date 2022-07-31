@@ -50,6 +50,6 @@ http://ideahacker.net/2015/08/21/10357/
 
 - ヘッダーとかフッダーは使いまわせないのか？  
 https://www.itra.co.jp/webmedia/include.html  
-https://webukatu.com/wordpress/blog/9075/
+https://webukatu.com/wordpress/blog/9075/  
 HTML単体でどうこうするというよりかはJSとかPHPとかで共通化するっぽく見える  
 今はまだ問題になっていないので後回しにする。
