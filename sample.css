@@ -1,33 +1,33 @@
-body{
+body {
     margin: 0;
 }
 
-header{
+header {
     background-color: rgb(47, 140, 184);
     padding: 0px 12px;
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.logo{
+.logo {
     width: 20%;
     height: 100%;
     vertical-align: middle;
 }
 
-.logo h2{
+.logo h2 {
     color: #fff;
     height: 100%;
     font-family: sans-serif;
 }
 
-.menu{
+.menu {
     width: 50%;
     height: 100%;
 }
 
-.menu ul{
+.menu ul {
     display: table;
     table-layout: fixed;
     list-style-type: none;
@@ -42,7 +42,7 @@ header{
     height: 100%;
 }
 
-.menu .not_selected_menu{
+.menu .not_selected_menu {
     display: inline-block;
     vertical-align: middle;
     width: 100%;
@@ -55,7 +55,7 @@ header{
     box-sizing: content-box;
 }
 
-.menu .selected_menu{
+.menu .selected_menu {
     display: inline-block;
     vertical-align: middle;
     width: 100%;
