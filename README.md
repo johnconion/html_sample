@@ -53,3 +53,6 @@ https://www.itra.co.jp/webmedia/include.html
 https://webukatu.com/wordpress/blog/9075/  
 HTML単体でどうこうするというよりかはJSとかPHPとかで共通化するっぽく見える  
 今はまだ問題になっていないので後回しにする。
+
+- オリジナルでごにょごにょいじる前にFlexboxのレイアウトを勉強した方が良さそう
+https://qiita.com/takanorip/items/a51989312160530d89a1
