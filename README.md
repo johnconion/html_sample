@@ -56,3 +56,9 @@ HTML単体でどうこうするというよりかはJSとかPHPとかで共通�
 
 - オリジナルでごにょごにょいじる前にFlexboxのレイアウトを勉強した方が良さそう
 https://qiita.com/takanorip/items/a51989312160530d89a1
+
+- aタグの下線を消す方法  
+https://web-camp.io/magazine/archives/82438  
+
+- imgに丸いマスクをかけてTwitterのユーザーアイコンっぽくしたい  
+https://www.nishishi.com/css/trim-image-to-circle.html  
