@@ -65,6 +65,28 @@ header .menu .selected {
 
 /* メインコンテンツ */
 
+.user_info {
+    background-color: rgb(47, 140, 184);
+    padding: 0px 25%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.user_info .user_icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+
+.user_info .user_name_label {
+    flex-wrap: wrap;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 12px;
+}
+
 /* メインコンテンツ */
 
 /* フッター */
