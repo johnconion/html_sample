@@ -83,7 +83,7 @@ header .menu .selected {
 }
 
 .main .post .user_info .user_icon {
-    width: 64px;
+    width: 10%;
     border-radius: 50%;
 }
 
@@ -93,6 +93,7 @@ header .menu .selected {
     font-weight: bold;
     text-decoration: none;
     margin: 0 12px;
+    font-size: medium;
 }
 
 .main .post .user_content {
