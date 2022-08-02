@@ -87,13 +87,26 @@ header .menu .selected {
     border-radius: 50%;
 }
 
-.main .post .user_info .user_name_label {
-    flex-wrap: wrap;
+.name_and_id_area {
+    display: flex;
+    flex-flow: column;
+}
+
+.main .post .user_info .name_and_id_area .user_name_label {
     color: #fff;
     font-weight: bold;
     text-decoration: none;
     margin: 0 12px;
     font-size: medium;
+    font-family: sans-serif;
+}
+
+.main .post .user_info .name_and_id_area .user_id_label {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 12px;
+    font-size: small;
+    font-family: sans-serif;
 }
 
 .main .post .user_content {
@@ -104,6 +117,18 @@ header .menu .selected {
     width: 100%;
     height: 100%;
     border-radius: 12px;
+}
+
+.main .post .post_date {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.main .post .post_date .date_label {
+    color: #fff;
+    text-align: center;
+    font-size: small;
+    font-family: sans-serif;
 }
 
 /* メインコンテンツ */
