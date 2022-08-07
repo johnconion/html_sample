@@ -62,3 +62,10 @@ https://web-camp.io/magazine/archives/82438
 
 - imgに丸いマスクをかけてTwitterのユーザーアイコンっぽくしたい  
 https://www.nishishi.com/css/trim-image-to-circle.html  
+
+- Headerを画面上部に固定したい  
+https://www.google.com/search?client=safari&rls=en&q=position+fixed&ie=UTF-8&oe=UTF-8  
+
+- 要素と要素の間に隙間を入れたい -> Spacerタグ？  
+https://web-designer.cman.jp/html_ref/abc_list/spacer/  
+-> Depricatedでした、marginとかpaddingで対応しましょうとのこと
